@@ -1,0 +1,15 @@
+img{
+    height: 200pxpx;
+    width: 200px;
+    float: left;
+    border-radius: 8;
+    border: 100px;
+}
+body{
+    background-color: skyblue;
+    background-repeat: repeat;
+}
+
+p{
+    background-color: whitesmoke;
+}
